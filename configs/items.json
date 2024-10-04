@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Eis Kugel",
+      "price": 1.5,
+      "image": "assets/images/vanilla.png",
+      "category": "eis"
+    },
+    {
+      "name": "Eisbecher",
+      "price": 7.5,
+      "image": "assets/images/chocolate.png",
+      "category": "becher",
+    },
+    {
+      "name": "Eisbecher Spezial",
+      "price": 8,
+      "image": "assets/images/strawberry.png",
+      "category": "becher"
+    },
+    {
+      "name": "Kaffee Normal",
+      "price": 2.0,
+      "image": "assets/images/mint.png",
+      "category": "getränke"
+    }
+  ]
